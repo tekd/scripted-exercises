@@ -35,3 +35,4 @@
 
 // 11. Create a function that will take a string and return it with all lowercase characters.
 
+// 12. Create a function that takes a first name and last name returns your initials
