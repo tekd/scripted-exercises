@@ -15,7 +15,15 @@ Pseudocode is a way to plan your code before actually writing it. Let's look at 
   * Compute the area by multiplying length times width
   * Return the computed area -- this is our output, or return value.
 
-For the first five questions, I provided a small test to check your code. Uncomment this code and run it. Remember we use console.log to print things to the console so we can check out what our program is doing. I know that the area of a rectangle with a length of 3 and a width of 4 is 12, so I **expect** my function to equal (===) 12 when I call it with those parameters. Note that I am giving you the function name you need to use. If your function passes, this test will log "true" to the console.
+For the first five questions, I provided a small test to check your code. Uncomment this code and run it.
+
+``` javascript
+console.log(findArea(4,3) === 12)
+```
+
+Remember we use `console.log` to print things to the console so we can check out what our program is doing. I know that the area of a rectangle with a length of 3 and a width of 4 is 12, so I **expect** my function to equal (===) 12 when I call it with those parameters. Note that I am giving you the function name you need to use. If your function passes, this test will log "true" to the console. If not, you'll get "false" or an error.
+
+Export your work as a gist and tag me if you want me to review it.
 
 Bonus points: What is the difference between =,==, and === in JavaScript?
 
