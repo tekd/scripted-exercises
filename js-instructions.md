@@ -27,7 +27,7 @@ Export your work as a gist and tag me if you want me to review it.
 
 ##KEEP IN MIND:
 * Naming. I gave you the names of the functions for the first two questions but the rest are up to you.
-* The difference between console.log vs. return.
+* The difference between console.log and return.
 * If something is unclear or we haven't covered it before, GOOGLE IT.
 * Review the slides and finish up the exercises we started in class if you need a refresher. [Daily Sessions Doc](https://docs.google.com/document/d/1B5NF1R8X4hqJQ_0p8xrwjnE-nuTZh4yHrOZXy8ine34/edit)
 
