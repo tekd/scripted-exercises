@@ -4,3 +4,4 @@ A compilation of beginner resources and excercises for HTML, CSS, and JavaScript
 
 [JavaScript Exercises - Instructions](js-instructions.md)
 
+[String Exercises - Instructions](string-instructions.md)
